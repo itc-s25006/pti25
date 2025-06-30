@@ -1,0 +1,6 @@
+year=input("今日は何年?")
+mon=input("今日は何月?")
+a=int(year)
+b=int(mon)
+print(type(year))
+print(type(a))
