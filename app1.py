@@ -4,8 +4,10 @@ root = tk.Tk()
 root.geometry("200x100")
 
 lbl=tk.Label(text="lebel")
+lbl=tk.lebel(text="LABEL")
 btn = tk.Button(text="PUSH")
 
 lbl.pack()
 btn.pack()
 tk.mainloop()
+
